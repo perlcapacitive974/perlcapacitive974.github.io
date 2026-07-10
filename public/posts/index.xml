@@ -10,9 +10,23 @@
 		
 		
 		
-			<lastBuildDate>Fri, 10 Jul 2026 07:23:10 +0200</lastBuildDate>
+			<lastBuildDate>Fri, 10 Jul 2026 07:47:22 +0200</lastBuildDate>
 		
 			<atom:link href="https://gearmo3ds.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Yttest3</title>
+				<link>https://gearmo3ds.github.io/posts/yttest3/</link>
+				<pubDate>Fri, 10 Jul 2026 07:47:22 +0200</pubDate>
+				<guid>https://gearmo3ds.github.io/posts/yttest3/</guid>
+				<description>&lt;p&gt;Helloooo 3&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Yt2</title>
+				<link>https://gearmo3ds.github.io/posts/yt2/</link>
+				<pubDate>Fri, 10 Jul 2026 07:31:24 +0200</pubDate>
+				<guid>https://gearmo3ds.github.io/posts/yt2/</guid>
+				<description></description>
+			</item>
 			<item>
 				<title>Yttest</title>
 				<link>https://gearmo3ds.github.io/posts/yttest/</link>
